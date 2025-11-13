@@ -1,0 +1,7 @@
+streamlit
+reportlab
+pandas
+openpyxl
+sendgrid
+python-dotenv
+importlib-metadata
